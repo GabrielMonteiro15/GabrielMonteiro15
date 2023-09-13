@@ -2,7 +2,7 @@
 - 🇧🇷 I'm from Brazil
 - 🩶 I was born in 05/15/2006
 - 😁 I’m interested in work with programming
-- 📕 I’m currently learning Python
+- 📕 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on making python files and software
 - 📫 How to reach :In my personal Email-gabrielnotavel@gmail.com
 - 
